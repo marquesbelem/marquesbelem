@@ -23,4 +23,4 @@
 
 ### Bora trocar uma ideia ou conhecer meus projetos? :speech_balloon:
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/camila-marques-belem-9438a5100/) [![Portifolio](https://img.shields.io/badge/-Portifolio-blueviolet)](https://marquesbelem.github.io/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/camila-marques-belem-9438a5100/) [![Portifolio](https://img.shields.io/badge/-Portifolio-blueviolet)](https://camilambelem.wordpress.com)
