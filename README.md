@@ -1,26 +1,70 @@
-### Olá, podem me chamar de Camis :smile:👋
+## Hi, my name is Camila and my nickname is Camis ✨👋 <img src="https://github.com/marquesbelem/marquesbelem/assets/22681072/0af894d6-91bd-42da-9a1a-b575bd491190" min-width="350px" max-width="350px" width="350px" align="right"/> 
 
-![C#](https://img.shields.io/badge/-C%23-brightgreen) ![Unity](https://img.shields.io/badge/-Unity-brightgreen)
-![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-brightgreen) ![JS](https://img.shields.io/badge/-JS-brightgreen) ![HTML](https://img.shields.io/badge/-HTML-brightgreen)
-![NodeJS](https://img.shields.io/badge/-NodeJS-brightgreen)
+🏠 I live in the capital of São Paulo. </br>
+❤️‍🔥 I am passionate about games! That's why I graduated in Digital Games. </br>
+🎓 I have a specialization in Software Engineering. </br>
+📚 I always seek to improve in the technologies I use and enjoy.
 
-:revolving_hearts: Sou apaixonada por jogos! Por esse motivo me formei em Jogos Digitais. :mortar_board: 
+## About me
+With a solid 8-year career in the market, my main focus is to develop high-quality software. </br>
+I love challenges and specialize in creating projects from scratch, as improving and maintaining existing projects.
+
+#### Others interests
+Engaging women in the field of technology, especially in the gaming industry. </br>
+I enjoy studying investments and financial education.
+
+## Skills
+▮▮▮▮▮ Software Architecture. </br>
+▮▮▮▮▮ Problem solving. </br>
+▮▮▮▮▮ Agile Methodologies </br>
+▮▮▮▮▯ Team Management </br>
+▮▮▮▯▯ DevOps. </br>
+▮▮▮▯▯ English.
+
+## Programming language and frameworks
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=cs"/>]()
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=c"/>]()
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=cpp"/>]()
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=dotnet"/>]()
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=js"/>]()
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>]()
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=express"/>]()
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=jquery"/>]()
+
+## Others
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=unity"/>]()
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=aws"/>]()
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=dynamodb"/>]()
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=docker"/>]()
+[<img height="48px" width="48px" alt="Icone Npm.js" src="https://i.postimg.cc/L8k9jKJ2/Group.png"/>]()
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=firebase"/>]()
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=jenkins"/>]()
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=bash"/>]()
+
 </br>
 
-:office: Tenho um sonho de montar meu próprio estudio de desenvolvimento com alguns amigos. :woman::boy: 
+## Professional experience
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://roguesnail.com/wp-content/themes/rogue/images/main_logo2.svg"/>](https://roguesnail.com/)
+**Software Engineering | Team Lead** \
+[**Rogue Snail**](https://roguesnail.com/) • Full-time • oct 2021 - present </br>
+`I worked on resolving bugs and creating features from scratch. I was responsible for validating the team's tasks, conducting code reviews in pull requests, and testing task functionalities.`
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://static.wixstatic.com/media/f3015c_5a494d2a60f54ca2b09f2aa2e0e8383a~mv2.png/v1/fill/w_830,h_240,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/INSANE_LOGO_BRANCO.png"/>](https://www.insa.ne/)
+**Software Engineering** \
+[**INSANE**](https://www.insa.ne//) • Full-time • aug 2020 - oct 2021 </br>
+`I developed gameplay-focused features using Unity Dots, employing agile methodology and documenting each feature. I practiced pair programming extensively.`
+
 </br>
 
-:trophy: Tenho muito orgulho de um projeto que pude desenvolver e levar para BGS de 2017 :point_right: <a href="https://www.linkedin.com/posts/camila-marques-belem-9438a5100_alunos-de-jogos-digitais-da-faculdade-impacta-activity-6669316514983759872-Jf6b" target="_blank">Saiba Mais</a>
+## Contact me
+[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/camila-marques-belem/)
+[<img src="https://img.shields.io/badge/-site-%e39913?style=for-the-badge"/>](https://camilambelem.info/)
+
 </br>
 
-:space_invader: Trabalho como desenvolvedora de jogos e pretendo firmar minha carreira nessa área. :computer: 
-</br>
-
-:books: Sempre procuro me aperfeiçoar nas tecnologias que uso e que gosto.  
-
-:notebook: Estou cursando uma Pós em Engenharia de Software para poder desenvolver meus projetos de forma adequada.  
-
-
-### Bora trocar uma ideia ou conhecer meus projetos? :speech_balloon:
-
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/camila-marques-belem-9438a5100/) [![Portifolio](https://img.shields.io/badge/-Portifolio-blueviolet)](https://camilambelem.wordpress.com)
+## Statistics
+<div>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquesbelem&layout=compact&langs_count=7&theme=radical"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=marquesbelem&show_icons=true&include_all_commits=true&theme=radical"/>
+<img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=marquesbelem&amp;theme=radical">
+</div>
