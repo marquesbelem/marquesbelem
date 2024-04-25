@@ -43,19 +43,6 @@ I enjoy studying investments and financial education.
 
 </br>
 
-## Professional experience
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://roguesnail.com/wp-content/themes/rogue/images/main_logo2.svg"/>](https://roguesnail.com/)
-**Software Engineering | Team Lead** \
-[**Rogue Snail**](https://roguesnail.com/) • Full-time • oct 2021 - present </br>
-`I worked on resolving bugs and creating features from scratch. I was responsible for validating the team's tasks, conducting code reviews in pull requests, and testing task functionalities.`
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://static.wixstatic.com/media/f3015c_5a494d2a60f54ca2b09f2aa2e0e8383a~mv2.png/v1/fill/w_830,h_240,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/INSANE_LOGO_BRANCO.png"/>](https://www.insa.ne/)
-**Software Engineering** \
-[**INSANE**](https://www.insa.ne//) • Full-time • aug 2020 - oct 2021 </br>
-`I developed gameplay-focused features using Unity Dots, employing agile methodology and documenting each feature. I practiced pair programming extensively.`
-
-</br>
-
 ## Contact me
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/camila-marques-belem/)
 [<img src="https://img.shields.io/badge/-site-%e39913?style=for-the-badge"/>](https://camilambelem.info/)
