@@ -41,17 +41,3 @@ I enjoy studying investments and financial education.
 [<img height="48px" width="48px" alt="Icone jenkins" src="https://skillicons.dev/icons?i=jenkins"/>]()
 [<img height="48px" width="48px" alt="Icone bash" src="https://skillicons.dev/icons?i=bash"/>]()
 
-</br>
-
-## Contact me
-[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/camila-marques-belem/)
-[<img src="https://img.shields.io/badge/-site-%e39913?style=for-the-badge"/>](https://camilambelem.info/)
-
-</br>
-
-## Statistics
-<div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquesbelem&layout=compact&langs_count=7&theme=radical"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=marquesbelem&show_icons=true&include_all_commits=true&theme=radical"/>
-<img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=marquesbelem&amp;theme=radical">
-</div>
