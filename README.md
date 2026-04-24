@@ -1,4 +1,4 @@
-## Hi, my name is Camila and my nickname is Camis ✨👋 <img src="https://github.com/marquesbelem/marquesbelem/assets/22681072/0af894d6-91bd-42da-9a1a-b575bd491190" min-width="350px" max-width="350px" width="350px" align="right"/> 
+## Hi, my name is Camila and my nickname is Camis ✨👋
 
 🏠 I live in the capital of São Paulo. </br>
 ❤️‍🔥 I am passionate about games! That's why I graduated in Digital Games. </br>
